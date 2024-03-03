@@ -1,0 +1,23 @@
+{
+  "name": "fe_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daudaudinang/fe_examples.git"
+  },
+  "keywords": [],
+  "author": "huynq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daudaudinang/fe_examples/issues"
+  },
+  "homepage": "https://github.com/daudaudinang/fe_examples#readme",
+  "dependencies": {
+    "five-server": "^0.3.2"
+  }
+}
